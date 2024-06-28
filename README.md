@@ -11,8 +11,10 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"  height="75" width="78"></img>
 <img src="https://symfony.com/logos/symfony_black_03.png"  height="75" width="78"/></img>
 <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" height="75" width="95"></img>
-<img src="https://www2.skillsoft.com/wp-content/uploads/2018/01/Javascript_badge.png" height="75" width="80"></img>
+<img src="https://miro.medium.com/v2/resize:fit:588/1*15CYVZdpsxir8KLdxEZytg.png" height="75" width="95"></img>
+<img src="https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_1280.png" height="75" width="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" height="75" width="80"></img>
+<img src="https://blog.alexdevero.com/wp-content/uploads/2018/12/react-native-expo-how-to-build-your-first-mobile-app.jpg" height="75" width="80"></img>
 
 # Contact
 <a href="https://m2x.alwaysdata.net/cv/"><img src="https://lesautrespossibles.fr/wp-content/uploads/2020/06/kisspng-computer-icons-web-browser-desktop-wallpaper-scala-free-high-quality-site-internet-icon-5ab11bffbf12b5.5624271815215564797826-300x300.png" height="30" width="30"></img></a>
